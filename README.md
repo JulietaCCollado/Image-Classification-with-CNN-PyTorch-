@@ -20,8 +20,7 @@ Image Classification/
 
  ## 1: **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/image-classification.git
-cd image-classification
+git clone https://github.com/JulietaCCollado/Image-Classification-with-CNN-PyTorch-
 ```
 ## 2: Install Dependencies
 ```bash
